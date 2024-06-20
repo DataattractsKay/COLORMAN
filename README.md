@@ -1,4 +1,4 @@
-# COLORMAN: 2D Mobile Strategy Puzzle Game
+# COLORMAN: I made a game!
 ![Banner](COLORMAN.png)
 
 Welcome to **COLORMAN** – a captivating 2D mobile strategy puzzle game that combines vibrant colors with strategic gameplay to deliver an engaging and challenging experience for players of all ages. Built using Unity 2D and C#, COLORMAN is available on both Android and iOS platforms.
