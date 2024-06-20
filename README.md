@@ -33,50 +33,17 @@ In COLORMAN, you control a character who can manipulate colors in the environmen
 - **Cross-Platform**: Available on both Android and iOS devices.
 - **Intuitive Controls**: Easy-to-use touch controls make the game accessible to all.
 
-## 📲 Installation
+## Watch me play!!
 
-### Android
+[Google Drive](https://drive.google.com/file/d/1-L_anGRmatW-LRrZUt9cs9iFpPZ1IgAN/view?usp=drive_link)
 
-1. Download the APK from [Google Drive](https://drive.google.com/file/d/YOUR_ANDROID_APK_LINK/view?usp=sharing).
-2. Install the APK on your Android device.
 
-### iOS
-
-1. Download the IPA file from [Google Drive](https://drive.google.com/file/d/YOUR_IOS_IPA_LINK/view?usp=sharing).
-2. Install the IPA on your iOS device using a tool like Cydia Impactor.
-
-## 🎥 Gameplay Video
-
-Experience the gameplay of COLORMAN by watching the video below:
-
-<div align="center">
-    <iframe src="[https://drive.google.com/file/d/YOUR_VIDEO_ID/preview](https://drive.google.com/file/d/1-L_anGRmatW-LRrZUt9cs9iFpPZ1IgAN/view?usp=sharing)" width="640" height="480" allow="autoplay"></iframe>
-</div>
 
 ## 🕹️ How to Play
-
 1. **Start the Game**: Open COLORMAN on your device.
 2. **Select a Level**: Choose a level to start your puzzle adventure.
 3. **Manipulate Colors**: Use the touch controls to change the colors of objects and solve the puzzles.
 4. **Complete the Level**: Successfully solve the puzzle to move to the next level.
-
-## 🤝 Contributing
-
-We welcome contributions to COLORMAN! Whether it’s reporting bugs, suggesting new features, or contributing code, your input helps make the game better. Please check out our [Contribution Guidelines](CONTRIBUTING.md) for more details.
-
-## 🙏 Acknowledgments
-
-Special thanks to all the players and contributors who have supported COLORMAN. Your feedback and suggestions are invaluable!
-
-## 📧 Contact
-
-For questions, feedback, or more information, please contact us at [your-email@example.com](mailto:your-email@example.com).
-
----
-
-### Links
-
-- [GitHub Repository](https://github.com/pirate-kiiiing/Colorman)
 
 ---
 
